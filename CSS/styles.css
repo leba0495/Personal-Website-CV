@@ -50,7 +50,6 @@ h3 {
 
 .middle-container p {
     font-size: 1.2rem;
-
 }
 
 .middle-container {
@@ -135,6 +134,11 @@ hr {
 .profile h2 {
     margin: 20px auto;
     font-size: 2rem;
+}
+
+.profile-intro {
+    width: 50%;
+    margin: 50px auto;
 }
 
 .credits {
